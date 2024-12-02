@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "position": "CEO",
+    "email": "john.doe@example.com",
+    "phone": "+123456789",
+    "profile_image": "https://images.unsplash.com/photo-1502767089025-6572583495d8?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fDE2OTE1MjUyMjk&ixlib=rb-4.0.3&q=80&fm=jpg&crop=faces&fit=crop&w=500&h=500"
+  },
+  {
+    "id": 2,
+    "name": "Michael Smith",
+    "position": "CTO",
+    "email": "michael.smith@example.com",
+    "phone": "+987654321",
+    "profile_image": "https://images.unsplash.com/photo-1564564295391-7f24f26f568b?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fDE2OTE1MjU2MjA&ixlib=rb-4.0.3&q=80&fm=jpg&crop=faces&fit=crop&w=500&h=500"
+  },
+  {
+    "id": 3,
+    "name": "David Johnson",
+    "position": "Project Manager",
+    "email": "david.johnson@example.com",
+    "phone": "+192837465",
+    "profile_image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fDE2OTE1MjYwMDI&ixlib=rb-4.0.3&q=80&fm=jpg&crop=faces&fit=crop&w=500&h=500"
+  },
+  {
+    "id": 4,
+    "name": "James Brown",
+    "position": "Lead Developer",
+    "email": "james.brown@example.com",
+    "phone": "+564738291",
+    "profile_image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fDE2OTE1MjYwMzM&ixlib=rb-4.0.3&q=80&fm=jpg&crop=faces&fit=crop&w=500&h=500"
+  },
+  {
+    "id": 5,
+    "name": "Robert Davis",
+    "position": "Marketing Head",
+    "email": "robert.davis@example.com",
+    "phone": "+748392016",
+    "profile_image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fDE2OTE1MjYwNjQ&ixlib=rb-4.0.3&q=80&fm=jpg&crop=faces&fit=crop&w=500&h=500"
+  }
+]

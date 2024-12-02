@@ -1,0 +1,30 @@
+.gradient-title {
+  background: #fc00ff;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #00dbde, #fc00ff);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+
+}
+
+.tenant-bg{
+  background-image: url(./images/kitchen.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: center;
+  background-color: rgba(0, 0, 0, 0.547);
+  background-blend-mode: multiply;
+}
+.glass-effect{
+  background: rgba( 255, 255, 255, 0.3 );
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: blur( 3.5px );
+  -webkit-backdrop-filter: blur( 3.5px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+
+/* owner-index.php */
