@@ -115,7 +115,7 @@
                 } else {
                     // User no longer exists, destroy the session and redirect to login
                     //session_destroy();
-                    header('Location: how-to-login.php');
+                    header('index.php');
                     exit();
                 }
             } 
